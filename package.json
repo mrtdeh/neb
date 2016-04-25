@@ -1,0 +1,18 @@
+{
+  "name": "ctm",
+  "version": "1.2.0",
+  "description": "test description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ctm",
+    "code",
+    "template",
+    "manager",
+    "code-template-manager"
+  ],
+  "author": "Morteza Dehghani",
+  "license": "MIT"
+}
